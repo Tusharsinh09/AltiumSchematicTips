@@ -1,0 +1,16 @@
+5 Helpful Tips To Increase Schematic Productivity In Altium Designer
+
+1. Disconnect and Move Symbol: CTR + Click & Move
+Move a part without connected wires.
+
+2. Duplicate Symbols: Shift + Click & Drag. 
+Quickly duplicate symbols on a sheet by using SHIFT + CLICK + DRAG.
+
+3. Net Color Synchronization: View >> Set Net Colors. 
+I find this feature to be especially helpful when reviewing my schematics.
+
+4. Find similar objects: Right click object >> Find Similar Objects. The Find Similar Objects dialog provides controls to set up search criteria for the Find Similar Objects (FSO) process
+
+5. Ports: Place >> Port. A port is used to make an electrical connection between one schematic sheet and another sheet, or sheet symbol (through a corresponding sheet entry) in a design using multiple sheets (both flat and hierarchical designs).
+
+Author- ALEXSANDER TAMARI
